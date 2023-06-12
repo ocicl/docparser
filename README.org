@@ -1,0 +1,10 @@
+* docparser
+
+Extract documentation from Common Lisp systems
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/docparser.git   |
+| commit  | 6111b20  |
+| systems | docparser |
+|---------+-------------------------------------------|
+
